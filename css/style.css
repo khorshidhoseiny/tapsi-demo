@@ -222,6 +222,9 @@ h2 {
 .charge .feature__image {
   margin-bottom: 2rem;
 }
+.feature__description h2 {
+  margin-bottom: 2rem;
+}
 .feature__image > img {
   width: 100%;
   height: auto;
@@ -700,7 +703,7 @@ textarea {
 }
 /* services */
 .block-heading {
-  margin-top: 5rem;
+  margin: 3rem;
 }
 .services__tabs {
   display: flex;
@@ -763,6 +766,10 @@ textarea {
   margin-bottom: 2rem;
   font-size: 2rem;
 }
+.feature__title {
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+}
 .tab.active {
   opacity: 1;
 }
@@ -796,6 +803,9 @@ textarea {
   border: 1px solid #ccc;
   overflow: hidden;
   border-radius: 20px;
+}
+.travell h2 {
+  margin-bottom: 2.5rem;
 }
 .travell_title {
   display: block;
